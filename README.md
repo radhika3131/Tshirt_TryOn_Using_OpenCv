@@ -42,8 +42,8 @@ Check out the  to see the Virtual Shirt Try-On App in action.
 3. Run the main script
 
 ```
-cd Tshirt_TryOn_Using_OpenCv
-python main.py
+  cd Tshirt_TryOn_Using_OpenCv
+  python main.py
 
 ```
 
