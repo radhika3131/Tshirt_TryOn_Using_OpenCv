@@ -15,7 +15,11 @@ The Virtual Shirt Try-On  is a simple Python application that allows users to tr
 
 ## Demo
 
-Check out the  to see the Virtual Shirt Try-On App in action.
+Check out these photos  to see the Virtual Shirt Try-On  in action.
+![finalout1](https://github.com/radhika3131/Tshirt_TryOn_Using_OpenCv/assets/102825662/4126a4b5-824f-43d2-bf89-ae34a1713fa7)
+![finalout2](https://github.com/radhika3131/Tshirt_TryOn_Using_OpenCv/assets/102825662/824e09ba-205b-4c5c-b807-43f05add2f5b)
+
+
 
 ## Getting Started
 
